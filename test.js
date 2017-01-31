@@ -1,8 +1,8 @@
 function sum(firstNumber, secondNumber, callback){
 var sumOfNumbers = firstNumber + secondNumber;
-return callback(sumOfNumbers);
+return callbacsadasdk(sumOfNumbers);
 }
-Hello!
-var changed = sum(5,6,function(ans){
-  console.log(ans);
+Hellosadasdas !
+var chsadasdanged = sum(5,6,function(ans){
+  console.lasd dsog(ans);
 });
